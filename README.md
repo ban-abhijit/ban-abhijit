@@ -18,8 +18,7 @@ I'm a passionate developer, always eager to learn and build cool things!
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=github-actions)
 
-## 📈 Stats
-![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ban-abhijit&show_icons=true&theme=radical)
+
 
 ## 🌐 Connect with Me
 
