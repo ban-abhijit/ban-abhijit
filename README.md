@@ -16,7 +16,7 @@ I'm a passionate developer, always eager to learn and build cool things!
 **Tools & Frameworks:**  
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=github-actions)
+
 
 
 
