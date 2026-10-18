@@ -3,8 +3,8 @@
 
 
 ##  About Me
-I'm a passionate developer, always eager to learn and build cool things!  
-- 🌱 Love to help others
+Programming is all I do, all day long!  
+
 
 
 ## 🛠️ Skills
